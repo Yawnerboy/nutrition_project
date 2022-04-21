@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "82429232892",
-    "project_id": "nutrition-project-17649",
-    "storage_bucket": "nutrition-project-17649.appspot.com"
+    "project_number": "558049863838",
+    "project_id": "vallasonson-b2cc0",
+    "storage_bucket": "vallasonson-b2cc0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:82429232892:android:eac9ac73850d688cf73979",
+        "mobilesdk_app_id": "1:558049863838:android:edb8698fb14b310fbdb38f",
         "android_client_info": {
           "package_name": "com.example.nutrition_project"
         }
       },
       "oauth_client": [
         {
-          "client_id": "82429232892-5g2tgr4p1hbj396b59o42otvfucjk8ts.apps.googleusercontent.com",
+          "client_id": "558049863838-8pg1lfbf9l7v9tf1ov0g3dbpkm665s4m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAz3m_Bq4z9c7HJeQ5L9Kz25D_yZOL9keg"
+          "current_key": "AIzaSyCDHmb1E2AXnZqa1TxoEizRhyfVdFnXb1M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "82429232892-5g2tgr4p1hbj396b59o42otvfucjk8ts.apps.googleusercontent.com",
+              "client_id": "558049863838-8pg1lfbf9l7v9tf1ov0g3dbpkm665s4m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
